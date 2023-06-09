@@ -1,0 +1,8 @@
+"RUIN"
+{
+	"base"		"base"
+	"title"		"RUIN"
+	"maps"		"rn_"
+	"menusystem"	"1"
+	"workshopid"	""
+}

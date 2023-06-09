@@ -1,0 +1,1 @@
+game.ConsoleCommand("ai_disabled 0\n")
